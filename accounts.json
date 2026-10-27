@@ -1,0 +1,41 @@
+{
+    "1001": {
+        "name": "Rahul Sharma",
+        "age": 20,
+        "phone": "9876543210",
+        "address": "Vellore, Tamil Nadu",
+        "type": "Savings",
+        "pin": "1234",
+        "balance": 5000.0,
+        "transactions": [
+            "27-10-2026 09:00:00 - Account created with initial deposit of Rs. 5000.00",
+            "27-10-2026 09:30:00 - Deposited Rs. 1000.00",
+            "27-10-2026 10:00:00 - Withdrew Rs. 500.00"
+        ]
+    },
+    "1002": {
+        "name": "Priya Verma",
+        "age": 21,
+        "phone": "9123456780",
+        "address": "Chennai, Tamil Nadu",
+        "type": "Current",
+        "pin": "5678",
+        "balance": 8500.0,
+        "transactions": [
+            "27-10-2026 09:15:00 - Account created with initial deposit of Rs. 10000.00",
+            "27-10-2026 10:15:00 - Withdrew Rs. 1500.00"
+        ]
+    },
+    "1003": {
+        "name": "Aman Gupta",
+        "age": 19,
+        "phone": "4321",
+        "address": "Lucknow, Uttar Pradesh",
+        "type": "Savings",
+        "pin": "9012",
+        "balance": 2500.0,
+        "transactions": [
+            "27-10-2026 09:45:00 - Account created with initial deposit of Rs. 2500.00"
+        ]
+    }
+}
